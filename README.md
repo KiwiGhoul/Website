@@ -12,9 +12,12 @@ Features
 
 1. Made navbar collapse so it should be able to be seen clearly on smaller screens --- ease of navigation
 2. larger font ---looks better and ease of navigation
+3. Made form to contact me on, not yet fuctional
+4. Made carousel but confident it works. will report as bug for now.
 
 
 
 Bugs
 1.fixed toggle, accidently deleted div tag and misspelled toggle, also had div tag in wrong place. My mistake ---all is working correctly 
 2.background seemed to snap back to the the beginning, made it hard to concentrate --- added adtional keyframes step to make sure background animation was smooth
+3.Carousel not working as intended
