@@ -21,3 +21,4 @@ Bugs
 1.fixed toggle, accidently deleted div tag and misspelled toggle, also had div tag in wrong place. My mistake ---all is working correctly 
 2.background seemed to snap back to the the beginning, made it hard to concentrate --- added adtional keyframes step to make sure background animation was smooth
 3.Carousel not working as intended
+4. About page, image not scaling down properly and seems out of place. fixed scaling down but still cant get it in the right place on smaller screens. 
