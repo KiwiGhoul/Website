@@ -9,9 +9,9 @@ With User expierence in mind made the website homepage simple and not too compli
 
 ## Navbar
 
-all hrefs/links work as intended
-font size was increased as to allow better visibility both on small screens and desktop.
-Font color was changed to stand out against the background.
+* All hrefs/links work as intended.
+* Font size was increased as to allow better visibility both on small screens and desktop.
+* Font color was changed to stand out against the background.
 
 
 
@@ -22,6 +22,7 @@ Font color was changed to stand out against the background.
 3. Made form to contact me on, not yet fuctional
 4. Carousel fuctional , nice pictures of my cat.
 5. Works on all browers--confirmed
+6. Forms do not work - will return and fix backend
 
 
 ## Technologies Used
@@ -34,10 +35,10 @@ Font color was changed to stand out against the background.
 
 ## Bugs
 
-1.  fixed toggle, accidently deleted div tag and misspelled toggle, also had div tag in wrong place. My mistake ---all is working correctly 
-2   .background seemed to snap back to the the beginning, made it hard to concentrate --- added adtional keyframes step to make sure background animation was smooth
-3.  Carousel not working as intended -- fixed 
-4.  About page, image not scaling down properly and seems out of place. fixed scaling down but still cant get it in the right place on smaller screens.
+* Fixed toggle, accidently deleted div tag and misspelled toggle, also had div tag in wrong place. My mistake ---all is working correctly 
+* Background seemed to snap back to the the beginning, made it hard to concentrate --- added adtional keyframes step to make sure background animation was smooth
+* Carousel not working as intended -- fixed 
+* About page, image not scaling down properly and seems out of place. fixed scaling down but still cant get it in the right place on smaller screens.
 
 ## Media / Images
 
@@ -45,10 +46,12 @@ All photos are of my own creation.
 
 ## Acknowledgements
 
-1. Found background animation at url https://www.makeuseof.com/css-background-patterns-examples --- all rights reserved to creator
 
-2.Found this comment box on https://getbootstrap.com/docs/5.0/forms/floating-labels
 
-3. Found this comment box/button on https://getbootstrap.com/docs/5.0/components/buttons/#button-tags
+* Found background animation at url https://www.makeuseof.com/css-background-patterns-examples --- all rights reserved to creator
 
-    4. got from https://getbootstrap.com/docs/4.0/components/carousel/ 
+* Found this comment box on https://getbootstrap.com/docs/5.0/forms/floating-labels
+
+* Found this button on https://getbootstrap.com/docs/5.0/components/buttons/#button-tags
+
+* Got carousel from https://getbootstrap.com/docs/4.0/components/carousel/ 
