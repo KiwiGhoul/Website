@@ -18,7 +18,16 @@ Features
 
 
 Bugs
-1.fixed toggle, accidently deleted div tag and misspelled toggle, also had div tag in wrong place. My mistake ---all is working correctly 
-2.background seemed to snap back to the the beginning, made it hard to concentrate --- added adtional keyframes step to make sure background animation was smooth
-3.Carousel not working as intended
-4. About page, image not scaling down properly and seems out of place. fixed scaling down but still cant get it in the right place on smaller screens. 
+
+1.  fixed toggle, accidently deleted div tag and misspelled toggle, also had div tag in wrong place. My mistake ---all is working correctly 
+2   .background seemed to snap back to the the beginning, made it hard to concentrate --- added adtional keyframes step to make sure background animation was smooth
+3.  Carousel not working as intended -- fixed 
+4.  About page, image not scaling down properly and seems out of place. fixed scaling down but still cant get it in the right place on smaller screens.
+
+
+Acknowledgements
+
+1. <!--Found background animation at url https://www.makeuseof.com/css-background-patterns-examples/-->
+2. <!--Found this comment box on https://getbootstrap.com/docs/5.0/forms/floating-labels/-->
+3. <!--Found this comment box/button on https://getbootstrap.com/docs/5.0/components/buttons/#button-tags-->
+4. <!--got from https://getbootstrap.com/docs/4.0/components/carousel/-->
