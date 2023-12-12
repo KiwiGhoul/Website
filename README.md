@@ -13,7 +13,7 @@ Features
 1. Made navbar collapse so it should be able to be seen clearly on smaller screens --- ease of navigation
 2. larger font ---looks better and ease of navigation
 3. Made form to contact me on, not yet fuctional
-4. Made carousel but confident it works. will report as bug for now.
+4. Carousel fuctional , nice pictures of my cat.
 
 
 
