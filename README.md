@@ -39,6 +39,7 @@ With User expierence in mind made the website homepage simple and not too compli
 * Background seemed to snap back to the the beginning, made it hard to concentrate --- added adtional keyframes step to make sure background animation was smooth
 * Carousel not working as intended -- fixed 
 * About page, image not scaling down properly and seems out of place. fixed scaling down but still cant get it in the right place on smaller screens.
+* footer was acting strange on small screens and was displaying in the center, on index. --changed it, working correctly  
 
 ## Media / Images
 
